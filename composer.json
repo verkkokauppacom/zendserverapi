@@ -1,5 +1,5 @@
 {
-    "name": "zendserverapi/zendserverapi",
+    "name": "verkkokauppacom/zendserverapi",
     "description": "Zend Server API Wrapper",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -8,7 +8,7 @@
         "zend server",
         "api"
     ],
-    "homepage": "https://github.com/iwalz/zendserverapi",
+    "homepage": "https://github.com/verkkokauppacom/zendserverapi",
     "authors": [
         {
             "name": "Ingo Walz",
@@ -18,9 +18,9 @@
     ],
     "require": {
         "php": ">=5.3.3",
-		"zendframework/zend-log": "dev-master",
-		"zendframework/zend-http": "dev-master",
-		"zendframework/zend-servicemanager": "dev-master"
+        "zendframework/zend-log": "dev-master",
+        "zendframework/zend-http": "dev-master",
+        "zendframework/zend-servicemanager": "dev-master"
     },
     "minimum-stability": "dev",
     "autoload": {
